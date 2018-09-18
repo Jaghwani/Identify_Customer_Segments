@@ -33,7 +33,8 @@ Use the k-means method.
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebook available here to showcase work related to the above questions. 
+There are 1 notebook available here to showcase important steps when dealling with identify customer segments. 
+In addition to some other files (images, excel) used to explain my decisions in notebook.
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
