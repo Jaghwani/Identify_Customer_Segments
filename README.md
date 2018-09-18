@@ -3,18 +3,17 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*. There are a number of datasets are used in the project but I have REMOVED the files from my computer via the agreement with Arvato Bartlesmann after completing the project, so the project only code with many of assessment, cleaning steps, and making decisions on data.
 
 ## Project Motivation<a name="motivation"></a>
 
 This project is hands-on experience with a real-life task on identify customer segments that makes use of these techniques, focusing on the unsupervised work that goes into understanding a dataset.
 
-We have implemented in this project a lot of cleaning steps before we apply machine learning methods. This project show the ability to perform data wrangling and the ability to make decisions on data that we work with.
+I have implemented in this project a lot of cleaning steps before applying machine learning methods. This project show the ability to perform data wrangling and the ability to make decisions on data that I work with.
 
 Steps used this notebook are:
 
@@ -28,14 +27,14 @@ Step 2: Feature Transformation
 Feature scaling. 
 Principal component analysis. 
 
+Step 3: Clustering
+
+Use the k-means method.
+
 ## File Descriptions <a name="files"></a>
 
 There are 1 notebook available here to showcase work related to the above questions. 
 
 
-## Results<a name="results"></a>
-
-The main findings of the code can be found at the post available [here](https://jaghwani.tumblr.com/post/178138334271/3-things-about-seattle-home-sharing).
-
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/home). Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity courses for build this challange. Free to use the code here as you would like!
